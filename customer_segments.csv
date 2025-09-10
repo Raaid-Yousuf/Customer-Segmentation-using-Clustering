@@ -1,0 +1,501 @@
+CustomerID,Segment
+CUST1000,Loyal High Spenders
+CUST1001,At-Risk Low Spenders
+CUST1002,Loyal High Spenders
+CUST1003,Loyal High Spenders
+CUST1004,Potential Loyalists
+CUST1005,Loyal High Spenders
+CUST1006,Potential Loyalists
+CUST1007,Potential Loyalists
+CUST1008,Loyal High Spenders
+CUST1009,Potential Loyalists
+CUST1010,At-Risk Low Spenders
+CUST1011,Potential Loyalists
+CUST1012,Loyal High Spenders
+CUST1013,Potential Loyalists
+CUST1014,Loyal High Spenders
+CUST1015,Potential Loyalists
+CUST1016,At-Risk Low Spenders
+CUST1017,Potential Loyalists
+CUST1018,Potential Loyalists
+CUST1019,Potential Loyalists
+CUST1020,Potential Loyalists
+CUST1021,At-Risk Low Spenders
+CUST1022,Loyal High Spenders
+CUST1023,Loyal High Spenders
+CUST1024,Potential Loyalists
+CUST1025,At-Risk Low Spenders
+CUST1026,Potential Loyalists
+CUST1027,Potential Loyalists
+CUST1028,Loyal High Spenders
+CUST1029,Potential Loyalists
+CUST1030,Potential Loyalists
+CUST1031,Loyal High Spenders
+CUST1032,Loyal High Spenders
+CUST1033,Potential Loyalists
+CUST1034,Loyal High Spenders
+CUST1035,Loyal High Spenders
+CUST1036,At-Risk Low Spenders
+CUST1037,At-Risk Low Spenders
+CUST1038,Loyal High Spenders
+CUST1039,Potential Loyalists
+CUST1040,At-Risk Low Spenders
+CUST1041,Potential Loyalists
+CUST1042,Potential Loyalists
+CUST1043,Potential Loyalists
+CUST1044,Potential Loyalists
+CUST1045,At-Risk Low Spenders
+CUST1046,Potential Loyalists
+CUST1047,Potential Loyalists
+CUST1048,Loyal High Spenders
+CUST1049,At-Risk Low Spenders
+CUST1050,Loyal High Spenders
+CUST1051,At-Risk Low Spenders
+CUST1052,Loyal High Spenders
+CUST1053,Potential Loyalists
+CUST1054,Loyal High Spenders
+CUST1055,At-Risk Low Spenders
+CUST1056,At-Risk Low Spenders
+CUST1057,Potential Loyalists
+CUST1058,At-Risk Low Spenders
+CUST1059,At-Risk Low Spenders
+CUST1060,Potential Loyalists
+CUST1061,At-Risk Low Spenders
+CUST1062,Potential Loyalists
+CUST1063,Potential Loyalists
+CUST1064,At-Risk Low Spenders
+CUST1065,Potential Loyalists
+CUST1066,At-Risk Low Spenders
+CUST1067,Potential Loyalists
+CUST1068,Potential Loyalists
+CUST1069,At-Risk Low Spenders
+CUST1070,Loyal High Spenders
+CUST1071,Loyal High Spenders
+CUST1072,Potential Loyalists
+CUST1073,At-Risk Low Spenders
+CUST1074,Loyal High Spenders
+CUST1075,Potential Loyalists
+CUST1076,Loyal High Spenders
+CUST1077,Potential Loyalists
+CUST1078,At-Risk Low Spenders
+CUST1079,At-Risk Low Spenders
+CUST1080,Potential Loyalists
+CUST1081,At-Risk Low Spenders
+CUST1082,Loyal High Spenders
+CUST1083,Loyal High Spenders
+CUST1084,At-Risk Low Spenders
+CUST1085,Potential Loyalists
+CUST1086,Potential Loyalists
+CUST1087,Potential Loyalists
+CUST1088,Potential Loyalists
+CUST1089,Potential Loyalists
+CUST1090,Loyal High Spenders
+CUST1091,Potential Loyalists
+CUST1092,At-Risk Low Spenders
+CUST1093,At-Risk Low Spenders
+CUST1094,At-Risk Low Spenders
+CUST1095,At-Risk Low Spenders
+CUST1096,At-Risk Low Spenders
+CUST1097,Loyal High Spenders
+CUST1098,Potential Loyalists
+CUST1099,Potential Loyalists
+CUST1100,At-Risk Low Spenders
+CUST1101,At-Risk Low Spenders
+CUST1102,Loyal High Spenders
+CUST1103,At-Risk Low Spenders
+CUST1104,Loyal High Spenders
+CUST1105,Loyal High Spenders
+CUST1106,Potential Loyalists
+CUST1107,Potential Loyalists
+CUST1108,Potential Loyalists
+CUST1109,Potential Loyalists
+CUST1110,Potential Loyalists
+CUST1111,Loyal High Spenders
+CUST1112,At-Risk Low Spenders
+CUST1113,Potential Loyalists
+CUST1114,Potential Loyalists
+CUST1115,Potential Loyalists
+CUST1116,Loyal High Spenders
+CUST1117,Loyal High Spenders
+CUST1118,Potential Loyalists
+CUST1119,At-Risk Low Spenders
+CUST1120,Loyal High Spenders
+CUST1121,Loyal High Spenders
+CUST1122,At-Risk Low Spenders
+CUST1123,At-Risk Low Spenders
+CUST1124,Loyal High Spenders
+CUST1125,Potential Loyalists
+CUST1126,Potential Loyalists
+CUST1127,Potential Loyalists
+CUST1128,Potential Loyalists
+CUST1129,Potential Loyalists
+CUST1130,Potential Loyalists
+CUST1131,Potential Loyalists
+CUST1132,Potential Loyalists
+CUST1133,At-Risk Low Spenders
+CUST1134,At-Risk Low Spenders
+CUST1135,At-Risk Low Spenders
+CUST1136,Potential Loyalists
+CUST1137,Potential Loyalists
+CUST1138,Loyal High Spenders
+CUST1139,Potential Loyalists
+CUST1140,Potential Loyalists
+CUST1141,Potential Loyalists
+CUST1142,Potential Loyalists
+CUST1143,Loyal High Spenders
+CUST1144,At-Risk Low Spenders
+CUST1145,Loyal High Spenders
+CUST1146,Potential Loyalists
+CUST1147,At-Risk Low Spenders
+CUST1148,Potential Loyalists
+CUST1149,At-Risk Low Spenders
+CUST1150,At-Risk Low Spenders
+CUST1151,Potential Loyalists
+CUST1152,Potential Loyalists
+CUST1153,Potential Loyalists
+CUST1154,Loyal High Spenders
+CUST1155,Loyal High Spenders
+CUST1156,At-Risk Low Spenders
+CUST1157,Potential Loyalists
+CUST1158,Loyal High Spenders
+CUST1159,At-Risk Low Spenders
+CUST1160,Potential Loyalists
+CUST1161,Potential Loyalists
+CUST1162,Potential Loyalists
+CUST1163,Potential Loyalists
+CUST1164,Loyal High Spenders
+CUST1165,At-Risk Low Spenders
+CUST1166,At-Risk Low Spenders
+CUST1167,Loyal High Spenders
+CUST1168,Potential Loyalists
+CUST1169,At-Risk Low Spenders
+CUST1170,Potential Loyalists
+CUST1171,At-Risk Low Spenders
+CUST1172,Loyal High Spenders
+CUST1173,At-Risk Low Spenders
+CUST1174,Potential Loyalists
+CUST1175,At-Risk Low Spenders
+CUST1176,At-Risk Low Spenders
+CUST1177,At-Risk Low Spenders
+CUST1178,At-Risk Low Spenders
+CUST1179,At-Risk Low Spenders
+CUST1180,Potential Loyalists
+CUST1181,Potential Loyalists
+CUST1182,At-Risk Low Spenders
+CUST1183,At-Risk Low Spenders
+CUST1184,At-Risk Low Spenders
+CUST1185,At-Risk Low Spenders
+CUST1186,At-Risk Low Spenders
+CUST1187,At-Risk Low Spenders
+CUST1188,Potential Loyalists
+CUST1189,Potential Loyalists
+CUST1190,At-Risk Low Spenders
+CUST1191,Potential Loyalists
+CUST1192,At-Risk Low Spenders
+CUST1193,At-Risk Low Spenders
+CUST1194,Potential Loyalists
+CUST1195,Potential Loyalists
+CUST1196,At-Risk Low Spenders
+CUST1197,Potential Loyalists
+CUST1198,Potential Loyalists
+CUST1199,Loyal High Spenders
+CUST1200,Potential Loyalists
+CUST1201,Potential Loyalists
+CUST1202,At-Risk Low Spenders
+CUST1203,Potential Loyalists
+CUST1204,At-Risk Low Spenders
+CUST1205,Potential Loyalists
+CUST1206,Loyal High Spenders
+CUST1207,At-Risk Low Spenders
+CUST1208,At-Risk Low Spenders
+CUST1209,Potential Loyalists
+CUST1210,Potential Loyalists
+CUST1211,Loyal High Spenders
+CUST1212,Loyal High Spenders
+CUST1213,Potential Loyalists
+CUST1214,Potential Loyalists
+CUST1215,Loyal High Spenders
+CUST1216,Potential Loyalists
+CUST1217,At-Risk Low Spenders
+CUST1218,At-Risk Low Spenders
+CUST1219,Loyal High Spenders
+CUST1220,At-Risk Low Spenders
+CUST1221,At-Risk Low Spenders
+CUST1222,Potential Loyalists
+CUST1223,Potential Loyalists
+CUST1224,Loyal High Spenders
+CUST1225,Potential Loyalists
+CUST1226,Potential Loyalists
+CUST1227,Loyal High Spenders
+CUST1228,Loyal High Spenders
+CUST1229,Loyal High Spenders
+CUST1230,Loyal High Spenders
+CUST1231,Potential Loyalists
+CUST1232,Potential Loyalists
+CUST1233,Potential Loyalists
+CUST1234,At-Risk Low Spenders
+CUST1235,Loyal High Spenders
+CUST1236,Loyal High Spenders
+CUST1237,Potential Loyalists
+CUST1238,Loyal High Spenders
+CUST1239,Potential Loyalists
+CUST1240,At-Risk Low Spenders
+CUST1241,At-Risk Low Spenders
+CUST1242,Loyal High Spenders
+CUST1243,At-Risk Low Spenders
+CUST1244,At-Risk Low Spenders
+CUST1245,Potential Loyalists
+CUST1246,At-Risk Low Spenders
+CUST1247,Potential Loyalists
+CUST1248,At-Risk Low Spenders
+CUST1249,Loyal High Spenders
+CUST1250,Potential Loyalists
+CUST1251,Potential Loyalists
+CUST1252,Potential Loyalists
+CUST1253,Potential Loyalists
+CUST1254,Loyal High Spenders
+CUST1255,Potential Loyalists
+CUST1256,Loyal High Spenders
+CUST1257,Loyal High Spenders
+CUST1258,Potential Loyalists
+CUST1259,Loyal High Spenders
+CUST1260,Potential Loyalists
+CUST1261,Loyal High Spenders
+CUST1262,Loyal High Spenders
+CUST1263,Loyal High Spenders
+CUST1264,Potential Loyalists
+CUST1265,Potential Loyalists
+CUST1266,Potential Loyalists
+CUST1267,Potential Loyalists
+CUST1268,At-Risk Low Spenders
+CUST1269,At-Risk Low Spenders
+CUST1270,Potential Loyalists
+CUST1271,Loyal High Spenders
+CUST1272,Potential Loyalists
+CUST1273,At-Risk Low Spenders
+CUST1274,Potential Loyalists
+CUST1275,Loyal High Spenders
+CUST1276,Loyal High Spenders
+CUST1277,Potential Loyalists
+CUST1278,At-Risk Low Spenders
+CUST1279,At-Risk Low Spenders
+CUST1280,Potential Loyalists
+CUST1281,At-Risk Low Spenders
+CUST1282,Loyal High Spenders
+CUST1283,At-Risk Low Spenders
+CUST1284,Potential Loyalists
+CUST1285,Potential Loyalists
+CUST1286,Loyal High Spenders
+CUST1287,Potential Loyalists
+CUST1288,Loyal High Spenders
+CUST1289,Potential Loyalists
+CUST1290,Loyal High Spenders
+CUST1291,Loyal High Spenders
+CUST1292,Potential Loyalists
+CUST1293,Potential Loyalists
+CUST1294,At-Risk Low Spenders
+CUST1295,Potential Loyalists
+CUST1296,Potential Loyalists
+CUST1297,Potential Loyalists
+CUST1298,Loyal High Spenders
+CUST1299,Loyal High Spenders
+CUST1300,Loyal High Spenders
+CUST1301,Potential Loyalists
+CUST1302,At-Risk Low Spenders
+CUST1303,Potential Loyalists
+CUST1304,Potential Loyalists
+CUST1305,At-Risk Low Spenders
+CUST1306,At-Risk Low Spenders
+CUST1307,Loyal High Spenders
+CUST1308,Loyal High Spenders
+CUST1309,Potential Loyalists
+CUST1310,At-Risk Low Spenders
+CUST1311,At-Risk Low Spenders
+CUST1312,Potential Loyalists
+CUST1313,Potential Loyalists
+CUST1314,At-Risk Low Spenders
+CUST1315,Potential Loyalists
+CUST1316,At-Risk Low Spenders
+CUST1317,At-Risk Low Spenders
+CUST1318,Potential Loyalists
+CUST1319,Loyal High Spenders
+CUST1320,At-Risk Low Spenders
+CUST1321,Potential Loyalists
+CUST1322,Loyal High Spenders
+CUST1323,Potential Loyalists
+CUST1324,Potential Loyalists
+CUST1325,At-Risk Low Spenders
+CUST1326,Potential Loyalists
+CUST1327,Potential Loyalists
+CUST1328,Loyal High Spenders
+CUST1329,Loyal High Spenders
+CUST1330,Loyal High Spenders
+CUST1331,Potential Loyalists
+CUST1332,Potential Loyalists
+CUST1333,At-Risk Low Spenders
+CUST1334,At-Risk Low Spenders
+CUST1335,At-Risk Low Spenders
+CUST1336,At-Risk Low Spenders
+CUST1337,Potential Loyalists
+CUST1338,Potential Loyalists
+CUST1339,Potential Loyalists
+CUST1340,Potential Loyalists
+CUST1341,Potential Loyalists
+CUST1342,Potential Loyalists
+CUST1343,Potential Loyalists
+CUST1344,Potential Loyalists
+CUST1345,Potential Loyalists
+CUST1346,Potential Loyalists
+CUST1347,Potential Loyalists
+CUST1348,Potential Loyalists
+CUST1349,Loyal High Spenders
+CUST1350,Potential Loyalists
+CUST1351,At-Risk Low Spenders
+CUST1352,Potential Loyalists
+CUST1353,At-Risk Low Spenders
+CUST1354,Potential Loyalists
+CUST1355,Potential Loyalists
+CUST1356,Loyal High Spenders
+CUST1357,Loyal High Spenders
+CUST1358,Potential Loyalists
+CUST1359,Potential Loyalists
+CUST1360,At-Risk Low Spenders
+CUST1361,At-Risk Low Spenders
+CUST1362,Potential Loyalists
+CUST1363,Potential Loyalists
+CUST1364,At-Risk Low Spenders
+CUST1365,At-Risk Low Spenders
+CUST1366,At-Risk Low Spenders
+CUST1367,At-Risk Low Spenders
+CUST1368,Potential Loyalists
+CUST1369,At-Risk Low Spenders
+CUST1370,At-Risk Low Spenders
+CUST1371,Potential Loyalists
+CUST1372,At-Risk Low Spenders
+CUST1373,At-Risk Low Spenders
+CUST1374,At-Risk Low Spenders
+CUST1375,Loyal High Spenders
+CUST1376,Potential Loyalists
+CUST1377,At-Risk Low Spenders
+CUST1378,Potential Loyalists
+CUST1379,Potential Loyalists
+CUST1380,Loyal High Spenders
+CUST1381,Potential Loyalists
+CUST1382,Loyal High Spenders
+CUST1383,Potential Loyalists
+CUST1384,At-Risk Low Spenders
+CUST1385,Potential Loyalists
+CUST1386,Loyal High Spenders
+CUST1387,Potential Loyalists
+CUST1388,Loyal High Spenders
+CUST1389,Potential Loyalists
+CUST1390,Potential Loyalists
+CUST1391,Loyal High Spenders
+CUST1392,Potential Loyalists
+CUST1393,At-Risk Low Spenders
+CUST1394,At-Risk Low Spenders
+CUST1395,At-Risk Low Spenders
+CUST1396,At-Risk Low Spenders
+CUST1397,Potential Loyalists
+CUST1398,Potential Loyalists
+CUST1399,At-Risk Low Spenders
+CUST1400,Potential Loyalists
+CUST1401,Potential Loyalists
+CUST1402,Potential Loyalists
+CUST1403,Potential Loyalists
+CUST1404,Potential Loyalists
+CUST1405,Potential Loyalists
+CUST1406,Loyal High Spenders
+CUST1407,Potential Loyalists
+CUST1408,Potential Loyalists
+CUST1409,At-Risk Low Spenders
+CUST1410,Potential Loyalists
+CUST1411,Potential Loyalists
+CUST1412,Potential Loyalists
+CUST1413,Loyal High Spenders
+CUST1414,Potential Loyalists
+CUST1415,Potential Loyalists
+CUST1416,At-Risk Low Spenders
+CUST1417,Potential Loyalists
+CUST1418,Potential Loyalists
+CUST1419,Potential Loyalists
+CUST1420,At-Risk Low Spenders
+CUST1421,Potential Loyalists
+CUST1422,At-Risk Low Spenders
+CUST1423,Potential Loyalists
+CUST1424,Loyal High Spenders
+CUST1425,At-Risk Low Spenders
+CUST1426,Loyal High Spenders
+CUST1427,Loyal High Spenders
+CUST1428,At-Risk Low Spenders
+CUST1429,Potential Loyalists
+CUST1430,Loyal High Spenders
+CUST1431,At-Risk Low Spenders
+CUST1432,At-Risk Low Spenders
+CUST1433,Potential Loyalists
+CUST1434,At-Risk Low Spenders
+CUST1435,Potential Loyalists
+CUST1436,Loyal High Spenders
+CUST1437,At-Risk Low Spenders
+CUST1438,Potential Loyalists
+CUST1439,At-Risk Low Spenders
+CUST1440,Loyal High Spenders
+CUST1441,Loyal High Spenders
+CUST1442,Loyal High Spenders
+CUST1443,Loyal High Spenders
+CUST1444,Loyal High Spenders
+CUST1445,Potential Loyalists
+CUST1446,Potential Loyalists
+CUST1447,At-Risk Low Spenders
+CUST1448,At-Risk Low Spenders
+CUST1449,At-Risk Low Spenders
+CUST1450,Potential Loyalists
+CUST1451,Potential Loyalists
+CUST1452,At-Risk Low Spenders
+CUST1453,At-Risk Low Spenders
+CUST1454,At-Risk Low Spenders
+CUST1455,Loyal High Spenders
+CUST1456,Potential Loyalists
+CUST1457,Loyal High Spenders
+CUST1458,At-Risk Low Spenders
+CUST1459,Loyal High Spenders
+CUST1460,Potential Loyalists
+CUST1461,Potential Loyalists
+CUST1462,Potential Loyalists
+CUST1463,At-Risk Low Spenders
+CUST1464,At-Risk Low Spenders
+CUST1465,At-Risk Low Spenders
+CUST1466,Potential Loyalists
+CUST1467,At-Risk Low Spenders
+CUST1468,At-Risk Low Spenders
+CUST1469,At-Risk Low Spenders
+CUST1470,At-Risk Low Spenders
+CUST1471,Potential Loyalists
+CUST1472,Potential Loyalists
+CUST1473,At-Risk Low Spenders
+CUST1474,Potential Loyalists
+CUST1475,Potential Loyalists
+CUST1476,Loyal High Spenders
+CUST1477,Potential Loyalists
+CUST1478,Potential Loyalists
+CUST1479,Loyal High Spenders
+CUST1480,At-Risk Low Spenders
+CUST1481,Potential Loyalists
+CUST1482,Potential Loyalists
+CUST1483,Loyal High Spenders
+CUST1484,Potential Loyalists
+CUST1485,At-Risk Low Spenders
+CUST1486,Potential Loyalists
+CUST1487,Loyal High Spenders
+CUST1488,Potential Loyalists
+CUST1489,At-Risk Low Spenders
+CUST1490,At-Risk Low Spenders
+CUST1491,At-Risk Low Spenders
+CUST1492,Potential Loyalists
+CUST1493,Potential Loyalists
+CUST1494,Loyal High Spenders
+CUST1495,Potential Loyalists
+CUST1496,At-Risk Low Spenders
+CUST1497,Potential Loyalists
+CUST1498,Potential Loyalists
+CUST1499,At-Risk Low Spenders
